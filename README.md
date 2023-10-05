@@ -15,7 +15,6 @@ A simple Node.js application for handling user registration forms and storing da
 - [Endpoints](#endpoints)
 - [Database](#database)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
