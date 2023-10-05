@@ -2,6 +2,9 @@
 
 A simple Node.js application for handling user registration forms and storing data in a MySQL database.
 
+<img width="1468" alt="Screenshot 2023-10-05 at 10 51 16 AM" src="https://github.com/puspadip12/Sign-up/assets/73663889/2bd82acc-9d3d-4449-b113-9f443cbc9dae">
+
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -79,11 +82,3 @@ This application uses a MySQL database to store user registration data. Be sure 
 
 Contributions are welcome! If you find any issues or want to improve the project, please open a pull request or submit an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Replace `<repository-url>` with the actual URL of your Git repository. This template provides an outline for your README file and includes sections for prerequisites, installation, configuration, usage, endpoints, database setup, contributing, and licensing information.
-
-Feel free to customize this README file to suit your project's specific needs and provide additional information or instructions as necessary.
